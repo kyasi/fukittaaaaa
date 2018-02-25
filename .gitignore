@@ -1,3 +1,5 @@
+feature/src/main/res/values/twitter.xml
+
 *.iml
 .gradle
 /local.properties

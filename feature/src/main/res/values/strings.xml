@@ -1,4 +1,2 @@
 <resources xmlns:android="http://schemas.android.com/tools">
-    <string name="com.twitter.sdk.android.CONSUMER_KEY">IIv7gLTBoUMaCIGlC3xEs9x77</string>
-    <string name="com.twitter.sdk.android.CONSUMER_SECRET">DY5NoUFilag4kS4JARequh9JDYRbWiQrnQQqO0SBaTovteKWzC</string>
 </resources>
