@@ -25,7 +25,9 @@ public class MainActivity extends AppCompatActivity {
         loginButton.setCallback(new Callback<TwitterSession>() {
             @Override
             public void success(Result<TwitterSession> result) {
-                // Do something with result, which provides a TwitterSession for making API calls
+
+                Intent intent = new Intent(MainActivity.this, TimelineActivity.class);
+                startActivity(intent);
             }
 
             @Override
